@@ -1,0 +1,84 @@
+<resources>
+    <integer name="maxQuestions">8</integer>
+    <string name="app_name">Astronomy Quiz</string>
+
+    <string name="question1">What is the closest star to us, excluding our sun?</string>
+    <bool name="isMultipleChoice1">false</bool>
+    <bool name="isTextField1">false</bool>
+    <string name="answer1x1">The North Star</string>
+    <string name="answer1x2">Alpha Centauri</string>
+    <string name="answer1x3">Sirius</string>
+    <string name="answer1x4">Epsilon Eridani</string>
+    <string name="correct1">Alpha Centauri</string>
+    <drawable name="picture1">@drawable/spacepencil</drawable>
+
+    <string name="question2">Select all that are constellations</string>
+    <bool name="isMultipleChoice2">true</bool>
+    <bool name="isTextField2">false</bool>
+    <string name="answer2x1">Cassiopia</string>
+    <string name="answer2x2">Little Dipper</string>
+    <string name="answer2x3">Orion</string>
+    <string name="answer2x4">Circlet</string>
+    <string name="correct2">CassiopiaOrion</string>
+    <drawable name="picture2">@drawable/spacepencil</drawable>
+
+    <string name="question3">What is the name of our galaxy?</string>
+    <bool name="isMultipleChoice3">false</bool>
+    <bool name="isTextField3">false</bool>
+    <string name="answer3x1">Stargate SG1</string>
+    <string name="answer3x2">Andromeda</string>
+    <string name="answer3x3">The Milky Way</string>
+    <string name="answer3x4">Dae Wae</string>
+    <string name="correct3">The Milky Way</string>
+    <drawable name="picture3">@drawable/spacepencil</drawable>
+
+    <string name="question4">What is a group of clustered galaxies called?</string>
+    <bool name="isMultipleChoice4">false</bool>
+    <bool name="isTextField4">false</bool>
+    <string name="answer4x1">Mega Cluster</string>
+    <string name="answer4x2">Mass Cluster</string>
+    <string name="answer4x3">Cornucopia</string>
+    <string name="answer4x4">Super Cluster</string>
+    <string name="correct4">Mega Cluster</string>
+    <drawable name="picture4">@drawable/spacepencil</drawable>
+
+    <string name="question5">What does the abbreviation A.U. stand for?</string>
+    <bool name="isMultipleChoice5">false</bool>
+    <bool name="isTextField5">false</bool>
+    <string name="answer5x1">Astronomers Union</string>
+    <string name="answer5x2">Asteroid Umbrella</string>
+    <string name="answer5x3">Astronomical Unit</string>
+    <string name="answer5x4">None of the Above</string>
+    <string name="correct5">Astronomical Unit</string>
+    <drawable name="picture5">@drawable/spacepencil</drawable>
+
+    <string name="question6">Which is the largest planet in our galaxy?</string>
+    <bool name="isMultipleChoice6">false</bool>
+    <bool name="isTextField6">false</bool>
+    <string name="answer6x1">Jupiter</string>
+    <string name="answer6x2">MOA</string>
+    <string name="answer6x3">Saturn</string>
+    <string name="answer6x4">Earth</string>
+    <string name="correct6">MOA</string>
+    <drawable name="picture6">@drawable/spacepencil</drawable>
+
+    <string name="question7">Type the name of the planet in the picture below.</string>
+    <bool name="isMultipleChoice7">false</bool>
+    <bool name="isTextField7">true</bool>
+    <string name="answer7x1">Uranus</string>
+    <string name="answer7x2">Venus</string>
+    <string name="answer7x3">Tatooine</string>
+    <string name="answer7x4">Mars</string>
+    <string name="correct7">Mars</string>
+    <drawable name="picture7">@drawable/mars</drawable>
+
+    <string name="question8">Which is closest to earth?</string>
+    <bool name="isMultipleChoice8">false</bool>
+    <bool name="isTextField8">false</bool>
+    <string name="answer8x1">Sun</string>
+    <string name="answer8x2">Moon</string>
+    <string name="answer8x3">Mars</string>
+    <string name="answer8x4">Asteroid Belt G-13</string>
+    <string name="correct8">Moon</string>
+    <drawable name="picture8">@drawable/spacepencil</drawable>
+</resources>
